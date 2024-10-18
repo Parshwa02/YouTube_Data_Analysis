@@ -25,19 +25,19 @@ YouTube Data Analysis with python.
 
 >>> the analysis includes:
 
-  look at what the data looks like:
-  look at the missing values and data types:
-  Filling missing values and updating data types
-  quick look at the descriptive statistics:
-  look at the distribution of views, likes and comments of all the videos in the data:
-  look at the correlation between likes, views, and comments:
-  collect the category names as well to analyze the categories of the trending videos:
-  analyze the number of trending videos by category:
-  look at the average engagement metrics by category:
-  convert the duration from ISO 8601 format to seconds:
-  analyze the content and the duration of videos:
-  analyze the relationship between views and number of tags used in the video:
-  impact of the time a video is posted on its views:
+  look at what the data looks like.
+  look at the missing values and data types.
+  Filling missing values and updating data types.
+  quick look at the descriptive statistics.
+  look at the distribution of views, likes and comments of all the videos in the data.
+  look at the correlation between likes, views, and comments.
+  collect the category names as well to analyze the categories of the trending videos.
+  analyze the number of trending videos by category.
+  look at the average engagement metrics by category.
+  convert the duration from ISO 8601 format to seconds.
+  analyze the content and the duration of videos.
+  analyze the relationship between views and number of tags used in the video.
+  impact of the time a video is posted on its views.
   
 
 Conclusion:
